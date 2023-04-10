@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THARUN K</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **DevOps,EEE**
+- 🌱 I’m currently learning **DevOps, EEE**
 
 - 👯 I’m looking to collaborate on **Devops and cloud related projects**
 
