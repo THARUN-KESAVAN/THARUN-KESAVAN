@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm THARUN K</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/115165747/230984366-d0cae65e-59dd-49f6-a30d-5b2dee3053f9.png">
+
+
 - 🌱 I’m currently learning **DevOps, EEE**
 
 - 👯 I’m looking to collaborate on **Devops and cloud related projects**
