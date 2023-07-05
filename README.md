@@ -3,7 +3,7 @@
 <p align="center"> Aspiring and passionate DevOps Engineer from India <p>
 
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/115165747/230985921-bd4e269b-aa00-4bf5-9910-e1a1267c6f30.png">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/115165747/230985921-bd4e269b-aa00-4bf5-9910-e1a1267c6f30.png">
 ⚡ My Blogs: https://indianstudent.hashnode.dev <br>   
 📫 How to reach me: Email: tharunk@student.tce.edu <br/>
 
